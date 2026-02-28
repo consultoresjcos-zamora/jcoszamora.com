@@ -1,1 +1,41 @@
+body{
+margin:0;
+font-family: Arial, Helvetica, sans-serif;
+background:#f5f7fb;
+color:#222;
+}
+
+.header{
+background:#1e2a44;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+.header nav a{
+color:white;
+margin:0 10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.hero{
+background:#2e3f66;
+color:white;
+padding:60px 20px;
+text-align:center;
+}
+
+.contenido{
+padding:40px 20px;
+max-width:900px;
+margin:auto;
+}
+
+.footer{
+background:#1e2a44;
+color:white;
+text-align:center;
+padding:20px;
+}
 
